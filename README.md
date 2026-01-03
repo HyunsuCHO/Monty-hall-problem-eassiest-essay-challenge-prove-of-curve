@@ -31,7 +31,7 @@ The reason it is 'three leaves' is that the 3rd dimension is the most difficult 
 It is also possible to calculate 'Intent.' The fact that the host eliminated (or lowered) the highest probability option creates a variable derived from 'Time' called 'Volatility.' If I also apply volatility, it works. Calculating intent mathematically is possible—it's currently one variable, but I think I can reduce it to two. Then, it becomes perfectly natural.
 Rather than 'Probability,' the term 'Spectrum' is more accurate. An example I always use, regardless of what I'm explaining, involves 'Probability and Spectrum' (e.g., in a first attempt, one's skill level is at the Paleolithic stage). These two are completely different, yet they are the two minimum essential elements for explaining anything.
 ​
-​
+​---
 ​
 수학은 네잎클로버(세잎기반)으로 설명이 전부 된다
 세잎클로버는 그 조금 작을때
