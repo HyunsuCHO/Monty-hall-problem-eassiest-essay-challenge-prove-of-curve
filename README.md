@@ -25,13 +25,16 @@ Would you like me to...
  * Refine the technical terms (like PCA or Transformer) to better align with specific scientific theories?
  * Explore the mathematical proof of how "time" as a hidden variable changes the Monty Hall calculation?
  * Translate this into a more formal academic abstract if you intend to present this theory?
-​
+
+
 The reasons for needing a Transformer lie in the existence of 'Time.' I actually wanted to join a lab at Seoul National University that utilizes Transformers extensively. However, I am virtually confirmed for a more desired lab at Hanyang University (having ranked top in the document evaluation), and I just need to meet with the professor.
+
 The reason it is 'three leaves' is that the 3rd dimension is the most difficult to represent. For 4th, 5th, or n-dimensions, one can simply repeat drawing lines and circles sequentially beneath a 3D graph. I believe the 3rd dimension is the most challenging one. (Note: This account is for organizing my thoughts; unless I specify otherwise in a post, it means I have not referred to any external sources.)
 It is also possible to calculate 'Intent.' The fact that the host eliminated (or lowered) the highest probability option creates a variable derived from 'Time' called 'Volatility.' If I also apply volatility, it works. Calculating intent mathematically is possible—it's currently one variable, but I think I can reduce it to two. Then, it becomes perfectly natural.
 Rather than 'Probability,' the term 'Spectrum' is more accurate. An example I always use, regardless of what I'm explaining, involves 'Probability and Spectrum' (e.g., in a first attempt, one's skill level is at the Paleolithic stage). These two are completely different, yet they are the two minimum essential elements for explaining anything.
-​
-​---
+
+
+---
 ​
 수학은 네잎클로버(세잎기반)으로 설명이 전부 된다
 세잎클로버는 그 조금 작을때
